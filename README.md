@@ -10,20 +10,7 @@
 
 - 🌱 I am currently enrolled in a Full Stack Development course.
 
-- 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me 
-
-- 
-
-<h3 align="left">Connect with me:</h3>
-
-
-##  GitHub Stats:
-<div id="aksjd" align="center">
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=VSilva4ALL&theme=shadow_blue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VSilva4ALL&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Connect with me:
 
